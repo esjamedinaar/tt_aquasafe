@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "AquaSafe"
+  title:        "aquasafe"
   author:       "Esteban Javier Medina Arias"
   discord:      ""
   description:  "Controlador digital de nivel de agua con FSM de 3 estados y deteccion de sensores incoherentes"
